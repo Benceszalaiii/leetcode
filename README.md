@@ -11,4 +11,6 @@ Repo for solved leetcode problems
 
 ### Stats
 
+Here are my live statistics.
+
 ![Stats](https://leetcode.card.workers.dev/?username=Benceszalaiii)
